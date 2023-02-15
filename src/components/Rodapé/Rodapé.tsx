@@ -53,20 +53,20 @@ import {
           <SimpleGrid columns={{ base: 1, sm: 2, md: 4 }} spacing={8}>
             <Stack align={'flex-start'}>
               <ListHeader>Documentos e declarações</ListHeader>
-              <Link href={'#'}>Procuração</Link>
-              <Link href={'#'}>Requerimento</Link>
-              <Link href={'#'}>Croqui localização</Link>
-              <Link href={'#'}>Declaração de residência</Link>
-              <Link href={'#'}>Imposto pago indevidamente</Link>
-              <Link href={'#'}>Carta de correção do GissOnline</Link>
-              <Link href={'#'}>Termo de cessão de uso de bem imóvel</Link>
-              <Link href={'#'}>Declaração de residência para isenção e imunidade</Link>
+              <Link href={'https://segefpagov.com/documents/procuracao.pdf'}>Procuração</Link>
+              <Link href={'https://segefpagov.com/documents/requerimento.pdf'}>Requerimento</Link>
+              <Link href={'https://segefpagov.com/documents/croqui_localizacao.pdf'}>Croqui localização</Link>
+              <Link href={'https://segefpagov.com/documents/declaracao_de_residencia.pdf'}>Declaração de residência</Link>
+              <Link href={'https://segefpagov.com/documents/imposto_pago_indevidamente.pdf'}>Imposto pago indevidamente</Link>
+              <Link href={'https://segefpagov.com/documents/carta_de_correcao_gissonline.pdf'}>Carta de correção do GissOnline</Link>
+              <Link href={'https://segefpagov.com/documents/cessao_de_uso_de_bem_imovel.pdf'}>Termo de cessão de uso de bem imóvel</Link>
+              <Link href={'https://segefpagov.com/documents/declaracao_de_residencia_isencao_imunidade.pdf'}>Declaração de residência para isenção e imunidade</Link>
             </Stack>
             <Stack align={'flex-start'}>
               <ListHeader>Consultas</ListHeader>
-              <Link href={'#'}>Processo web</Link>
-              <Link href={'#'}>Inscrição municipal</Link>
-              <Link href={'#'}>Comprovante de inscrição e de situação cadastral</Link>
+              <Link href={'http://18.228.61.100/TPNET/ConsultaProcesso'}>Processo web</Link>
+              <Link href={'http://www.informe.issqn.com.br/sitCadSch.cfm'}>Inscrição municipal</Link>
+              <Link href={'https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp'}>Comprovante de inscrição e de situação cadastral</Link>
             </Stack>
             <Stack align={'flex-start'}>
                 <ListHeader>Fale Conosco:</ListHeader>
